@@ -1,0 +1,5 @@
+activationKeywords = ['hey', 'hello'];
+commandKeywords = ['open google', 'open facebook', 'open youtube', 'what is', 'who is', 'what are', 'who are', 'wikipedia', 'time', 'date'];
+
+
+***note: Run only on chrome
